@@ -8,7 +8,7 @@
 <h2>🥇 IT Certifications</h2>
 
 - [CompTIA Cybersecurity Analyst (CySA+)](https://www.credly.com/badges/4a7da69e-7ee2-4434-8611-82c62c444da8/public_url)
-- [Blue Team Level 1 (BTL1](https://www.credly.com/badges/80eb2ce1-aa5a-4680-b9be-e11ea11614d9/public_url)
+- [Blue Team Level 1 (BTL1)](https://www.credly.com/badges/80eb2ce1-aa5a-4680-b9be-e11ea11614d9/public_url)
 - [Azure Administrator Associate (AZ-104)](https://learn.microsoft.com/api/credentials/share/en-us/SyahirahOmar-8427/7C1084859A35F4BF?sharingId=F3F984D7EE93DF78)
 - [Microsoft Security Operations Analyst (SC-200)](https://www.credly.com/badges/dea525f8-67ec-4f7b-a5bd-9bd5d83aeafb)
 - [CompTIA Security+](https://www.credly.com/badges/627d568c-dbc0-4876-99df-41ad64ea86cf/public_url)
