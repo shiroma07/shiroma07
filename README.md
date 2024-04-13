@@ -1,4 +1,4 @@
-<h1>Hi, I'm Syahirah! <br/><a href="https://www.linkedin.com/in/syahirah-omar/">Cybersecurity Enthusiast</a>, Desktop Support</h1>
+<h1>Hi, I'm Syahirah! <br/><a href="https://www.linkedin.com/in/syahirah-omar/">Cybersecurity Enthusiast</a>, IT Support</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
