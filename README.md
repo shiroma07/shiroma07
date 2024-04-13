@@ -5,7 +5,7 @@
 - <b> Active Directory Personal Lab</b>
   - [Creating domain controller and join domain as client](https://github.com/shiroma07/Algorithms-Practice)
 
-<h2>🥇 IT Certifications</h2>
+<h2>🥇 IT Certifications:</h2>
 
 - [CompTIA Cybersecurity Analyst (CySA+)](https://www.credly.com/badges/4a7da69e-7ee2-4434-8611-82c62c444da8/public_url)
 - [Blue Team Level 1 (BTL1)](https://www.credly.com/badges/80eb2ce1-aa5a-4680-b9be-e11ea11614d9/public_url)
