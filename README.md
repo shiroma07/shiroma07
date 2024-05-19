@@ -22,6 +22,9 @@
 
 - [LinkedIn](https://www.linkedin.com/in/syahirah-omar/) Syahirah Omar
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **shiroma07/shiroma07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
