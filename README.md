@@ -21,10 +21,11 @@
 <h2> 🤳 Connect with me:</h2>
 
 - [LinkedIn](https://www.linkedin.com/in/syahirah-omar/) Syahirah Omar
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
+<br />
+<br />
+<p align="center" width+"100%">
+  <img src="https://wakatime.com/share/@a46a1ac8-2eb0-4a41-a3df-16c31a72c931/7d6558e6-b44e-4de3-8f47-39a01c3b9c0f.svg">
+</p>
 <!--
 **shiroma07/shiroma07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
