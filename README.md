@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b> Active Directory Personal Lab</b>
-  - [Creating domain controller and join domain as client](https://github.com/shiroma07/Algorithms-Practice)
+  - [Creating domain controller and join domain as client](https://github.com/shiroma07/ActiveDirectoryLab)
 
 <h2>🥇 IT Certifications:</h2>
 
