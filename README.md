@@ -22,7 +22,7 @@
 - [Microsoft Security, Compliance, and Identity Fundamentals (SC-900)](https://www.credly.com/badges/456d8c81-2275-4080-b9ad-c1931cbee931)
 - [Microsoft 365 Certified: Fundamentals (MS-900)](https://www.credly.com/badges/12ad1ce1-96a2-4dcf-bb71-e4212f9133a1/public_url)
 
-<h2> Security :</h2>
+<h2> Security Tools:</h2>
 
 ### SIEM
 <div>   
