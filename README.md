@@ -24,7 +24,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-- [LinkedIn](https://www.linkedin.com/in/syahirah-omar/) Syahirah Omar
+- <a href="https://www.linkedin.com/in/syahirah-omar/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat" /></a>
 <br />
 <br />
 <p align="center" width+"100%">
