@@ -34,6 +34,12 @@
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Sense-blue?style=for-the-badge&logo=pfsense&logoColor=blue&labelColor=white&color=white" />
 </div>
+
+### Forensics
+<div>
+    <img src="https://img.shields.io/badge/Autopsy-brown?style=for-the-badge&logo=autopsy&logoColor=white&labelColor=brown&color=brown" />
+    <img src="https://img.shields.io/badge/-Volatility-red?style=for-the-badge&logo=volatility&logoColor=black&color=red" />
+</div>
 <br />
 <br />
 
