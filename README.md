@@ -11,6 +11,7 @@
 
 <h2> IT Certifications:</h2>
 
+- [Microsoft Cybersecurity Architect Expert (SC-100)](https://learn.microsoft.com/api/credentials/share/en-us/SyahirahOmar-8427/5F973569DD9C1A3F?sharingId=F3F984D7EE93DF78)
 - [Microsoft Azure Security Engineer Associate (AZ-500)](https://learn.microsoft.com/api/credentials/share/en-us/SyahirahOmar-8427/A4614BE429D23B5?sharingId=F3F984D7EE93DF78)
 - [CompTIA Cybersecurity Analyst (CySA+)](https://www.credly.com/badges/4a7da69e-7ee2-4434-8611-82c62c444da8/public_url)
 - [Blue Team Level 1 (BTL1)](https://www.credly.com/badges/80eb2ce1-aa5a-4680-b9be-e11ea11614d9/public_url)
